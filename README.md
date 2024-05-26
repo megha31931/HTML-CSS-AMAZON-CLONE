@@ -17,7 +17,7 @@ Installation
 To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
-  git clone 
+  git clone https://github.com/megha31931/HTML-CSS-AMAZON-CLONE.git
   
 
 Thank you for visiting the repository and happy coding!
